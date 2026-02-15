@@ -1,0 +1,8 @@
+
+{
+  "name": "DuoLingo-Social",
+  "description": "A multilingual social chat application featuring two AI personas that interact with you in 60+ languages and provide a detailed social assessment report on demand.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
